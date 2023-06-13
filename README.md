@@ -1,4 +1,4 @@
-# Colorful QR Generator
+# Colorful QR Code Generator
 
 **Notebook Link:** [Click Here](https://colab.research.google.com/github/IqmanS/Colorful_QR_Generator/blob/main/Colorful_QR_Code_Generator.ipynb)
 
